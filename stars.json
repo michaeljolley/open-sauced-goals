@@ -19,13 +19,13 @@
   },
   {
     "full_name": "nuxt/nuxt.js",
-    "stargazers_count": 38732,
-    "open_issues_count": 424,
-    "forks_count": 3136
+    "stargazers_count": 38765,
+    "open_issues_count": 431,
+    "forks_count": 3138
   },
   {
     "full_name": "devrelcollective/awesome-devrel",
-    "stargazers_count": 398,
+    "stargazers_count": 400,
     "open_issues_count": 4,
     "forks_count": 63
   },
@@ -33,17 +33,17 @@
     "full_name": "SohoHouse/nuxt-oauth",
     "stargazers_count": 111,
     "open_issues_count": 29,
-    "forks_count": 26
+    "forks_count": 27
   },
   {
     "full_name": "nuxt-community/auth-module",
-    "stargazers_count": 1617,
-    "open_issues_count": 304,
-    "forks_count": 796
+    "stargazers_count": 1621,
+    "open_issues_count": 308,
+    "forks_count": 798
   },
   {
     "full_name": "nuxt-community/awesome-nuxt",
-    "stargazers_count": 4248,
+    "stargazers_count": 4249,
     "open_issues_count": 9,
     "forks_count": 540
   },
@@ -67,19 +67,19 @@
   },
   {
     "full_name": "cassidoo/talks",
-    "stargazers_count": 464,
+    "stargazers_count": 479,
     "open_issues_count": 0,
     "forks_count": 43
   },
   {
     "full_name": "microsoft/vscode-extension-samples",
-    "stargazers_count": 4833,
-    "open_issues_count": 56,
-    "forks_count": 2107
+    "stargazers_count": 4845,
+    "open_issues_count": 59,
+    "forks_count": 2118
   },
   {
     "full_name": "orbit-love/orbit-model",
-    "stargazers_count": 740,
+    "stargazers_count": 742,
     "open_issues_count": 4,
     "forks_count": 52
   },
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "justadudewhohacks/face-api.js",
-    "stargazers_count": 13138,
-    "open_issues_count": 371,
-    "forks_count": 2971
+    "stargazers_count": 13144,
+    "open_issues_count": 372,
+    "forks_count": 2974
   },
   {
     "full_name": "jlengstorf/lwj-scenes",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "microsoft/vscode-dev-containers",
-    "stargazers_count": 2624,
-    "open_issues_count": 117,
-    "forks_count": 855
+    "stargazers_count": 2640,
+    "open_issues_count": 119,
+    "forks_count": 860
   },
   {
     "full_name": "mheap/markdown-to-jira",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "actions/toolkit",
-    "stargazers_count": 2862,
-    "open_issues_count": 159,
-    "forks_count": 982
+    "stargazers_count": 2873,
+    "open_issues_count": 162,
+    "forks_count": 985
   },
   {
     "full_name": "aullman/opentok-layout-js",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "pi-hole/pi-hole",
-    "stargazers_count": 33735,
-    "open_issues_count": 110,
-    "forks_count": 2127
+    "stargazers_count": 33790,
+    "open_issues_count": 106,
+    "forks_count": 2131
   }
 ]
