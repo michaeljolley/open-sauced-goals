@@ -19,13 +19,13 @@
   },
   {
     "full_name": "nuxt/nuxt.js",
-    "stargazers_count": 39027,
-    "open_issues_count": 470,
-    "forks_count": 3160
+    "stargazers_count": 39056,
+    "open_issues_count": 474,
+    "forks_count": 3165
   },
   {
     "full_name": "devrelcollective/awesome-devrel",
-    "stargazers_count": 421,
+    "stargazers_count": 423,
     "open_issues_count": 6,
     "forks_count": 65
   },
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "nuxt-community/auth-module",
-    "stargazers_count": 1623,
-    "open_issues_count": 322,
-    "forks_count": 808
+    "stargazers_count": 1626,
+    "open_issues_count": 318,
+    "forks_count": 810
   },
   {
     "full_name": "nuxt-community/awesome-nuxt",
-    "stargazers_count": 4293,
+    "stargazers_count": 4295,
     "open_issues_count": 11,
     "forks_count": 545
   },
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "microsoft/vscode-extension-samples",
-    "stargazers_count": 4974,
+    "stargazers_count": 4979,
     "open_issues_count": 60,
-    "forks_count": 2177
+    "forks_count": 2190
   },
   {
     "full_name": "orbit-love/orbit-model",
-    "stargazers_count": 758,
+    "stargazers_count": 760,
     "open_issues_count": 4,
     "forks_count": 55
   },
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "justadudewhohacks/face-api.js",
-    "stargazers_count": 13283,
+    "stargazers_count": 13290,
     "open_issues_count": 379,
-    "forks_count": 3010
+    "forks_count": 3013
   },
   {
     "full_name": "jlengstorf/lwj-scenes",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "microsoft/vscode-dev-containers",
-    "stargazers_count": 2734,
-    "open_issues_count": 129,
-    "forks_count": 900
+    "stargazers_count": 2745,
+    "open_issues_count": 131,
+    "forks_count": 908
   },
   {
     "full_name": "mheap/markdown-to-jira",
@@ -139,8 +139,8 @@
   },
   {
     "full_name": "actions/toolkit",
-    "stargazers_count": 2949,
-    "open_issues_count": 167,
+    "stargazers_count": 2955,
+    "open_issues_count": 168,
     "forks_count": 1011
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "pi-hole/pi-hole",
-    "stargazers_count": 34192,
-    "open_issues_count": 58,
-    "forks_count": 2161
+    "stargazers_count": 34261,
+    "open_issues_count": 59,
+    "forks_count": 2168
   }
 ]
