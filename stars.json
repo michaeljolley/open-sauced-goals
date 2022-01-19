@@ -19,9 +19,9 @@
   },
   {
     "full_name": "nuxt/nuxt.js",
-    "stargazers_count": 39184,
-    "open_issues_count": 487,
-    "forks_count": 3179
+    "stargazers_count": 39209,
+    "open_issues_count": 486,
+    "forks_count": 3183
   },
   {
     "full_name": "devrelcollective/awesome-devrel",
@@ -37,14 +37,14 @@
   },
   {
     "full_name": "nuxt-community/auth-module",
-    "stargazers_count": 1635,
-    "open_issues_count": 308,
-    "forks_count": 819
+    "stargazers_count": 1639,
+    "open_issues_count": 297,
+    "forks_count": 821
   },
   {
     "full_name": "nuxt-community/awesome-nuxt",
-    "stargazers_count": 4319,
-    "open_issues_count": 7,
+    "stargazers_count": 4325,
+    "open_issues_count": 8,
     "forks_count": 547
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "dmitryvinn/awesome-dev-advocacy",
-    "stargazers_count": 138,
+    "stargazers_count": 139,
     "open_issues_count": 0,
     "forks_count": 12
   },
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "microsoft/vscode-extension-samples",
-    "stargazers_count": 5016,
+    "stargazers_count": 5042,
     "open_issues_count": 62,
-    "forks_count": 2224
+    "forks_count": 2234
   },
   {
     "full_name": "orbit-love/orbit-model",
-    "stargazers_count": 775,
+    "stargazers_count": 777,
     "open_issues_count": 4,
     "forks_count": 56
   },
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "justadudewhohacks/face-api.js",
-    "stargazers_count": 13352,
+    "stargazers_count": 13369,
     "open_issues_count": 382,
-    "forks_count": 3032
+    "forks_count": 3037
   },
   {
     "full_name": "jlengstorf/lwj-scenes",
@@ -110,19 +110,19 @@
   {
     "full_name": "instafluff/ComfyJS",
     "stargazers_count": 209,
-    "open_issues_count": 12,
+    "open_issues_count": 13,
     "forks_count": 32
   },
   {
     "full_name": "filmgirl/podcasting-resources",
-    "stargazers_count": 36,
+    "stargazers_count": 37,
     "open_issues_count": 1,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "microsoft/vscode-dev-containers",
-    "stargazers_count": 2820,
-    "open_issues_count": 131,
+    "stargazers_count": 2828,
+    "open_issues_count": 133,
     "forks_count": 932
   },
   {
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "actions/toolkit",
-    "stargazers_count": 2976,
-    "open_issues_count": 171,
-    "forks_count": 1027
+    "stargazers_count": 2987,
+    "open_issues_count": 174,
+    "forks_count": 1030
   },
   {
     "full_name": "aullman/opentok-layout-js",
@@ -153,7 +153,7 @@
     "full_name": "livecoders/website",
     "stargazers_count": 45,
     "open_issues_count": 11,
-    "forks_count": 79
+    "forks_count": 78
   },
   {
     "full_name": "vmbrasseur/Public_Speaking",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "pi-hole/pi-hole",
-    "stargazers_count": 34543,
-    "open_issues_count": 38,
-    "forks_count": 2197
+    "stargazers_count": 34604,
+    "open_issues_count": 35,
+    "forks_count": 2199
   }
 ]
