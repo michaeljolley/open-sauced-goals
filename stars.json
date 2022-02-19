@@ -3,7 +3,7 @@
     "full_name": "deepgram/python-sdk",
     "stargazers_count": 6,
     "open_issues_count": 3,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "lukasschwab/podcast-transcriber",
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "nuxt/nuxt.js",
-    "stargazers_count": 39410,
-    "open_issues_count": 502,
+    "stargazers_count": 39428,
+    "open_issues_count": 501,
     "forks_count": 3202
   },
   {
     "full_name": "devrelcollective/awesome-devrel",
-    "stargazers_count": 445,
+    "stargazers_count": 446,
     "open_issues_count": 2,
-    "forks_count": 66
+    "forks_count": 67
   },
   {
     "full_name": "SohoHouse/nuxt-oauth",
@@ -38,13 +38,13 @@
   {
     "full_name": "nuxt-community/auth-module",
     "stargazers_count": 1654,
-    "open_issues_count": 97,
-    "forks_count": 843
+    "open_issues_count": 99,
+    "forks_count": 844
   },
   {
     "full_name": "nuxt-community/awesome-nuxt",
-    "stargazers_count": 4358,
-    "open_issues_count": 7,
+    "stargazers_count": 4364,
+    "open_issues_count": 8,
     "forks_count": 553
   },
   {
@@ -67,19 +67,19 @@
   },
   {
     "full_name": "cassidoo/talks",
-    "stargazers_count": 517,
+    "stargazers_count": 519,
     "open_issues_count": 0,
     "forks_count": 46
   },
   {
     "full_name": "microsoft/vscode-extension-samples",
-    "stargazers_count": 5131,
-    "open_issues_count": 68,
-    "forks_count": 2284
+    "stargazers_count": 5144,
+    "open_issues_count": 69,
+    "forks_count": 2288
   },
   {
     "full_name": "orbit-love/orbit-model",
-    "stargazers_count": 792,
+    "stargazers_count": 796,
     "open_issues_count": 5,
     "forks_count": 58
   },
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "justadudewhohacks/face-api.js",
-    "stargazers_count": 13463,
-    "open_issues_count": 384,
-    "forks_count": 3067
+    "stargazers_count": 13471,
+    "open_issues_count": 386,
+    "forks_count": 3071
   },
   {
     "full_name": "jlengstorf/lwj-scenes",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "instafluff/ComfyJS",
-    "stargazers_count": 219,
+    "stargazers_count": 226,
     "open_issues_count": 14,
-    "forks_count": 32
+    "forks_count": 33
   },
   {
     "full_name": "filmgirl/podcasting-resources",
@@ -121,13 +121,13 @@
   },
   {
     "full_name": "microsoft/vscode-dev-containers",
-    "stargazers_count": 2936,
+    "stargazers_count": 2944,
     "open_issues_count": 139,
-    "forks_count": 976
+    "forks_count": 979
   },
   {
     "full_name": "mheap/markdown-to-jira",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 6,
     "forks_count": 2
   },
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "actions/toolkit",
-    "stargazers_count": 3071,
+    "stargazers_count": 3073,
     "open_issues_count": 188,
     "forks_count": 1050
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "vmbrasseur/Public_Speaking",
-    "stargazers_count": 1319,
+    "stargazers_count": 1320,
     "open_issues_count": 23,
-    "forks_count": 155
+    "forks_count": 156
   },
   {
     "full_name": "sorskoot/BackToSpace",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "pi-hole/pi-hole",
-    "stargazers_count": 35034,
-    "open_issues_count": 33,
-    "forks_count": 2220
+    "stargazers_count": 35077,
+    "open_issues_count": 35,
+    "forks_count": 2223
   }
 ]
