@@ -19,9 +19,9 @@
   },
   {
     "full_name": "nuxt/nuxt.js",
-    "stargazers_count": 40753,
-    "open_issues_count": 457,
-    "forks_count": 3249
+    "stargazers_count": 40784,
+    "open_issues_count": 453,
+    "forks_count": 3251
   },
   {
     "full_name": "devrelcollective/awesome-devrel",
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "nuxt-community/auth-module",
-    "stargazers_count": 1717,
-    "open_issues_count": 155,
-    "forks_count": 882
+    "stargazers_count": 1719,
+    "open_issues_count": 157,
+    "forks_count": 883
   },
   {
     "full_name": "nuxt-community/awesome-nuxt",
-    "stargazers_count": 4497,
+    "stargazers_count": 4498,
     "open_issues_count": 13,
     "forks_count": 557
   },
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "microsoft/vscode-extension-samples",
-    "stargazers_count": 5664,
-    "open_issues_count": 63,
-    "forks_count": 2503
+    "stargazers_count": 5675,
+    "open_issues_count": 62,
+    "forks_count": 2508
   },
   {
     "full_name": "orbit-love/orbit-model",
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "justadudewhohacks/face-api.js",
-    "stargazers_count": 13930,
-    "open_issues_count": 398,
-    "forks_count": 3232
+    "stargazers_count": 13938,
+    "open_issues_count": 399,
+    "forks_count": 3236
   },
   {
     "full_name": "jlengstorf/lwj-scenes",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "microsoft/vscode-dev-containers",
-    "stargazers_count": 3480,
+    "stargazers_count": 3502,
     "open_issues_count": 169,
-    "forks_count": 1186
+    "forks_count": 1181
   },
   {
     "full_name": "mheap/markdown-to-jira",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "actions/toolkit",
-    "stargazers_count": 3360,
+    "stargazers_count": 3366,
     "open_issues_count": 226,
-    "forks_count": 1146
+    "forks_count": 1148
   },
   {
     "full_name": "aullman/opentok-layout-js",
@@ -152,14 +152,14 @@
   {
     "full_name": "livecoders/website",
     "stargazers_count": 47,
-    "open_issues_count": 21,
-    "forks_count": 78
+    "open_issues_count": 23,
+    "forks_count": 77
   },
   {
     "full_name": "vmbrasseur/Public_Speaking",
-    "stargazers_count": 1343,
+    "stargazers_count": 1347,
     "open_issues_count": 23,
-    "forks_count": 159
+    "forks_count": 160
   },
   {
     "full_name": "sorskoot/BackToSpace",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "pi-hole/pi-hole",
-    "stargazers_count": 36702,
+    "stargazers_count": 36733,
     "open_issues_count": 32,
-    "forks_count": 2293
+    "forks_count": 2292
   }
 ]
